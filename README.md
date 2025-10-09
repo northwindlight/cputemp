@@ -1,7 +1,8 @@
 # CPU Temperature Monitor
 
-Simple Go library to get CPU temperature via WMI ACPI.
-
+Simple Go library to get CPU temperature.
+Windows: via WMI ACPI.
+Linux: via /sys/class/thermal
 ## Usage
 
 ```go
