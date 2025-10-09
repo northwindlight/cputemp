@@ -11,7 +11,7 @@ import (
     "fmt"
     "log"
     
-    "github.com/yourusername/cputemp"
+    "github.com/northwindlight/cputemp"
 )
 
 func main() {
